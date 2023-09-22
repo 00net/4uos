@@ -6,4 +6,4 @@
 <li>(일반) 시작 유형: 사용 안 함, 서비스 상태: 중지</li>  
 <li>(복구) 모두 "동작하지 않음"</li></ul>  
   
-- [참고](https://www.lainyzine.com/ko/article/how-to-disable-windows-automatic-updates-on-windows-10/)   
+-- [참고](https://www.lainyzine.com/ko/article/how-to-disable-windows-automatic-updates-on-windows-10/)   
