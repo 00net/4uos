@@ -1,4 +1,5 @@
 ### 윈도우 10 홈에디션에 gpedit.msc 설치하기   
+- gpedit-enabler.bat 만들고, 관리자 권한으로 실행.  
 ~~~
 @echo off 
 pushd “%~dp0” 
